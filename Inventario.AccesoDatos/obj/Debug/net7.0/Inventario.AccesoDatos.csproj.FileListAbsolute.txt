@@ -1,0 +1,17 @@
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\bin\Debug\net7.0\Inventario.AccesoDatos.deps.json
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\bin\Debug\net7.0\Inventario.AccesoDatos.dll
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\bin\Debug\net7.0\Inventario.AccesoDatos.pdb
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\bin\Debug\net7.0\Inventario.Modelos.dll
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\bin\Debug\net7.0\Inventario.Utilidades.dll
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\bin\Debug\net7.0\Inventario.Modelos.pdb
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\bin\Debug\net7.0\Inventario.Utilidades.pdb
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\obj\Debug\net7.0\Inventario.AccesoDatos.csproj.AssemblyReference.cache
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\obj\Debug\net7.0\Inventario.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\obj\Debug\net7.0\Inventario.AccesoDatos.AssemblyInfoInputs.cache
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\obj\Debug\net7.0\Inventario.AccesoDatos.AssemblyInfo.cs
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\obj\Debug\net7.0\Inventario.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\obj\Debug\net7.0\Inventario.AccesoDatos.csproj.CopyComplete
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\obj\Debug\net7.0\Inventario.AccesoDatos.dll
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\obj\Debug\net7.0\refint\Inventario.AccesoDatos.dll
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\obj\Debug\net7.0\Inventario.AccesoDatos.pdb
+D:\NET\practicando01\inventario\Inventario.AccesoDatos\obj\Debug\net7.0\ref\Inventario.AccesoDatos.dll

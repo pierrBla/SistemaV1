@@ -1,0 +1,12 @@
+D:\NET\practicando01\inventario\Inventario.Utilidades\bin\Debug\net7.0\Inventario.Utilidades.deps.json
+D:\NET\practicando01\inventario\Inventario.Utilidades\bin\Debug\net7.0\Inventario.Utilidades.dll
+D:\NET\practicando01\inventario\Inventario.Utilidades\bin\Debug\net7.0\Inventario.Utilidades.pdb
+D:\NET\practicando01\inventario\Inventario.Utilidades\obj\Debug\net7.0\Inventario.Utilidades.csproj.AssemblyReference.cache
+D:\NET\practicando01\inventario\Inventario.Utilidades\obj\Debug\net7.0\Inventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET\practicando01\inventario\Inventario.Utilidades\obj\Debug\net7.0\Inventario.Utilidades.AssemblyInfoInputs.cache
+D:\NET\practicando01\inventario\Inventario.Utilidades\obj\Debug\net7.0\Inventario.Utilidades.AssemblyInfo.cs
+D:\NET\practicando01\inventario\Inventario.Utilidades\obj\Debug\net7.0\Inventario.Utilidades.csproj.CoreCompileInputs.cache
+D:\NET\practicando01\inventario\Inventario.Utilidades\obj\Debug\net7.0\Inventario.Utilidades.dll
+D:\NET\practicando01\inventario\Inventario.Utilidades\obj\Debug\net7.0\refint\Inventario.Utilidades.dll
+D:\NET\practicando01\inventario\Inventario.Utilidades\obj\Debug\net7.0\Inventario.Utilidades.pdb
+D:\NET\practicando01\inventario\Inventario.Utilidades\obj\Debug\net7.0\ref\Inventario.Utilidades.dll
